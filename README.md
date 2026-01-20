@@ -11,6 +11,7 @@ Features
 - Real-time conversion display
 - Syntax highlighting using Prism
 - Responsive UI with Tailwind CSS
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd1ad259-96b5-4164-966e-cc745d6bf233" />
 
 Installation
 
